@@ -1,0 +1,15 @@
+[core]
+	symlinks = false
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	logallrefupdates = true
+	sharedRepository = false
+	bigFileThreshold = 1m
+	autocrlf = false
+	eol = crlf
+[gc]
+	autodetach = false
+	auto = 0
+[svn]
+	pathnameencoding = UTF-8

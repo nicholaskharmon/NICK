@@ -1,0 +1,5 @@
+[svn-git-remote "svn"]
+	uuid = 15ce8de1-c55b-614e-9a06-5d2f9b42efa2
+	reposRoot = file:///c:/SVNRepos/TD_REPO
+	branches-maxRev = 912
+	tags-maxRev = 912
